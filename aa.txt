@@ -1,3 +1,4 @@
 abc
 cde edit by master
+cde edit by hot_fix
 efg
